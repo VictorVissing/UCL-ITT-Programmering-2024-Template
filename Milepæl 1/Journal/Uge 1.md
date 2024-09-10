@@ -4,10 +4,16 @@
 
 * Hvad bør jeg undersøge nærmere eller få svar på?
 
-* Er der spørgsmål jeg bør have klar til at spørge underviseren om? 
+* Hvad er jeg blevet nysgerrig på?
 
-## Opgavenoter
+* Hvad har været udfordrende?
+
+* Hvordan finder jeg informationer? Kan denne taktik forbedres?
+
+## Opgavenoter - rover
 
 * Hvordan anvender jeg det lærte til at løse opgaven?
 
 * Hvordan undersøger jeg muligheder til videre løsning?
+
+* Hvordan kommer jeg videre med at bygge roveren?
