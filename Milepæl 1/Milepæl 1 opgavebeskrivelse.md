@@ -19,3 +19,7 @@ Det i skriver i journalmappen er jeres uge til uge reflektioner, så dette Milep
 ### Komponentliste
 
 ### Beskrivelse af basen
+
+### Udfordringer undervejs
+
+### Hvad er godt ved min rover
